@@ -1,0 +1,2 @@
+scoreboard objectives add DaylightCycleStatus dummy
+scoreboard objectives add PlayerOn dummy
