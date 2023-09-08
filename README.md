@@ -12,4 +12,4 @@ Adventure mode players are currently marked as "offline".
 
 This project is licensed under the [MIT License](LICENSE).
 
-*Disclaimer: DaylightSaver is not affiliated with by Mojang, the creators of Minecraft.*
+*Disclaimer: DaylightSaver is not affiliated with Mojang.*
