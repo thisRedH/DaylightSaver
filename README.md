@@ -5,7 +5,7 @@ You can now savely say, how much time you and youre friends have really played o
 Adventure mode players are currently marked as "offline".
 
 ## Compatebility
-- Tested and build for 1.19.x, but **should** work fine with any version.
+- Tested and build for 1.19.x, but **should** work fine with any version, that supports Datapacks.
 - Occasional problems with some chunk loaders.
 
 ## License
